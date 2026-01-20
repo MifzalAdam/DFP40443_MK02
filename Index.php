@@ -8,7 +8,7 @@ $kelas = "DIT4C (SW_G2)";
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Maklumat</title>
+    <title>Maklumat Pelajar</title>
 
     <style>
         body {
