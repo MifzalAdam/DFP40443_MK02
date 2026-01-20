@@ -1,24 +1,11 @@
-<?php
-$nama = "ADAM MIFZAL BIN MOHD FAIZAL";
-$nomatrik = "18DIT24F1139";
-$kelas = "DIT4C (SW_G2)";
-?>
+<?php include 'biodata.php'; ?>
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Maklumat Pelajar</title>
-
-    <style>
-        body {
-            font-family: verdana;
-        }
-        img {
-            width: 200px;
-        }
-    </style>
-
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     
@@ -30,7 +17,5 @@ $kelas = "DIT4C (SW_G2)";
     <p>NO MATRIK: <?= $nomatrik ?></p>
     <p>KELAS: <?= $kelas ?></p>
     
-    </div>
-    </div>
 </body>
 </html>
